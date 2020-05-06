@@ -1,0 +1,8 @@
+node_modules/
+/src/**/*.js
+/src/**/*.js.map
+__tests__/*
+!__tests__/**/*.test.ts
+coverage
+.idea
+dist
